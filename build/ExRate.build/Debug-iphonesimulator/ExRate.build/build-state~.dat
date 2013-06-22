@@ -1,0 +1,1406 @@
+TExRate
+v7
+r0
+t341570974.944430
+cCheck dependencies
+cProcessInfoPlistFile /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/Info.plist ExRate-Info.plist
+cCompileXIB /Users/macbookpro/Documents/MyApps/ExRate/MainWindow.xib
+cCompileXIB /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.xib
+cCpResource build/Debug-iphonesimulator/ExRate.app/Blue.png Classes/MKInfoBundle/Blue.png
+cCpResource build/Debug-iphonesimulator/ExRate.app/Blue@2x.png Classes/MKInfoBundle/Blue@2x.png
+cCpResource build/Debug-iphonesimulator/ExRate.app/Red.png Classes/MKInfoBundle/Red.png
+cCpResource build/Debug-iphonesimulator/ExRate.app/Red@2x.png Classes/MKInfoBundle/Red@2x.png
+cCpResource build/Debug-iphonesimulator/ExRate.app/Tick.png Classes/MKInfoBundle/Tick.png
+cCpResource build/Debug-iphonesimulator/ExRate.app/Tick@2x.png Classes/MKInfoBundle/Tick@2x.png
+cCpResource build/Debug-iphonesimulator/ExRate.app/Warning.png Classes/MKInfoBundle/Warning.png
+cCpResource build/Debug-iphonesimulator/ExRate.app/Warning@2x.png Classes/MKInfoBundle/Warning@2x.png
+cCpResource build/Debug-iphonesimulator/ExRate.app/ButtonSelected.png Classes/MKHorizMenu/ButtonSelected.png
+cCpResource build/Debug-iphonesimulator/ExRate.app/MenuBar.png Classes/MKHorizMenu/MenuBar.png
+cCpResource build/Debug-iphonesimulator/ExRate.app/MenuBar@2x.png Classes/MKHorizMenu/MenuBar@2x.png
+cProcessPCH /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch.gch ExRate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/main.o /Users/macbookpro/Documents/MyApps/ExRate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/InfoController.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/InfoController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MKInfoPanel.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/ExRateAppDelegate.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/ExRateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MBProgressHUD.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/MBProgressHUD.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/CurrencyController.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/HistoryController.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/CurrencyChooserController.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/HistoryParseOperation.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryParseOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/ParseOperation.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/ParseOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Cache.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/Cache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/NTHXMLParser.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/NTHXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/EGORefreshTableHeaderView.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/RefreshTableHeaderView/EGORefreshTableHeaderView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MKHorizMenu.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MKHorizMenu.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Currency.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/Currency.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Rate.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/Rate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/ExRate normal i386
+cGenerateDSYMFile /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app.dSYM /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/ExRate
+cTouch /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004CC1221800000000000004CF
+t1287725592
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/Cache.h
+c000000004D1C5AAD000000000000059C
+t1293703853
+s1436
+i<Foundation/Foundation.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/Cache.m
+c000000004D1C5AAD0000000000001D31
+t1293703853
+s7473
+i"Cache.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/Currency.h
+c000000004EA5B7690000000000000277
+t1319483241
+s631
+i<Foundation/Foundation.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/Currency.m
+c000000004EA5E7BD000000000000051F
+t1319495613
+s1311
+i"Currency.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.h
+c000000004EAAF49000000000000003B8
+t1319826576
+s952
+i<UIKit/UIKit.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m
+c000000004EAAF6B4000000000000246E
+t1319827124
+s9326
+i"CurrencyChooserController.h"
+i"Currency.h"
+i"CurrencyController.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.h
+c000000004EAB32A1000000000000055D
+t1319842465
+s1373
+i<UIKit/UIKit.h>
+i"EGORefreshTableHeaderView.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m
+c000000004EAB335F0000000000005F96
+t1319842655
+s24470
+i"CurrencyController.h"
+i"HistoryController.h"
+i"Currency.h"
+i"CurrencyChooserController.h"
+i"ExRateAppDelegate.h"
+i"InfoController.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/ExRateAppDelegate.h
+c000000004EA5B65300000000000003C0
+t1319482963
+s960
+i<UIKit/UIKit.h>
+i"MBProgressHUD.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/ExRateAppDelegate.m
+c000000004EAB35F0000000000000383E
+t1319843312
+s14398
+i"ExRateAppDelegate.h"
+i"CurrencyController.h"
+i"ParseOperation.h"
+i"Currency.h"
+i"MKInfoPanel.h"
+i<CFNetwork/CFNetwork.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryController.h
+c000000004EABBC290000000000000515
+t1319877673
+s1301
+i<UIKit/UIKit.h>
+i"MKHorizMenu.h"
+i"MBProgressHUD.h"
+i"CorePlot-CocoaTouch.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryController.m
+c000000004EABBD1F00000000000038CF
+t1319877919
+s14543
+i"HistoryController.h"
+i"HistoryParseOperation.h"
+i"Rate.h"
+i"CPTGraphHostingView.h"
+i"math.h"
+i"MKInfoPanel.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryParseOperation.h
+c000000004EA5E57C0000000000000305
+t1319495036
+s773
+i<Foundation/Foundation.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryParseOperation.m
+c000000004EAB095B0000000000001630
+t1319831899
+s5680
+i"HistoryParseOperation.h"
+i"Rate.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/InfoController.h
+c000000004EAB327A00000000000000D8
+t1319842426
+s216
+i<UIKit/UIKit.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/InfoController.m
+c000000004EAB327A0000000000000598
+t1319842426
+s1432
+i"InfoController.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MBProgressHUD.h
+c000000004E9B1E7700000000000032D7
+t1318788727
+s13015
+i<UIKit/UIKit.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MBProgressHUD.m
+c000000004E9B22060000000000005904
+t1318789638
+s22788
+i"MBProgressHUD.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/ButtonSelected.png
+c000000004EA3E1F10000000000000D84
+t1319363057
+s3460
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MKHorizMenu.h
+c000000004EA3E1F10000000000000773
+t1319363057
+s1907
+i<UIKit/UIKit.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MKHorizMenu.m
+c000000004EA3E1F10000000000000EBB
+t1319363057
+s3771
+i"MKHorizMenu.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MenuBar.png
+c000000004EA3E1F10000000000000AFC
+t1319363057
+s2812
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MenuBar@2x.png
+c000000004EA3E1F10000000000000B2B
+t1319363057
+s2859
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Blue.png
+c000000004EA9C4A70000000000000CCA
+t1319748775
+s3274
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Blue@2x.png
+c000000004EA9C4A700000000000012FD
+t1319748775
+s4861
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.h
+c000000004EA9C4A700000000000008D8
+t1319748775
+s2264
+i<UIKit/UIKit.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.m
+c000000004EA9C8100000000000001BBD
+t1319749648
+s7101
+i"MKInfoPanel.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.xib
+c000000004EA9C4A70000000000003B19
+t1319748775
+s15129
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Red.png
+c000000004EA9C4A70000000000000C0D
+t1319748775
+s3085
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Red@2x.png
+c000000004EA9C4A70000000000000F93
+t1319748775
+s3987
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Tick.png
+c000000004EA9C4A7000000000000074C
+t1319748775
+s1868
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Tick@2x.png
+c000000004EA9C4A70000000000000934
+t1319748775
+s2356
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Warning.png
+c000000004EA9C4A70000000000000BCC
+t1319748775
+s3020
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Warning@2x.png
+c000000004EA9C4A70000000000001450
+t1319748775
+s5200
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/NTHXMLParser.h
+c000000004D1C5AAC000000000000021B
+t1293703852
+s539
+i<Foundation/Foundation.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/NTHXMLParser.m
+c000000004D1C5AAC0000000000000852
+t1293703852
+s2130
+i"NTHXMLParser.h"
+i"Cache.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/ParseOperation.h
+c000000004EA5DE140000000000000C40
+t1319493140
+s3136
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/ParseOperation.m
+c000000004EAAE982000000000000278B
+t1319823746
+s10123
+i"ParseOperation.h"
+i"Currency.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/Rate.h
+c000000004EA5E0E0000000000000013E
+t1319493856
+s318
+i<Foundation/Foundation.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/Rate.m
+c000000004EA5E10B000000000000010D
+t1319493899
+s269
+i"Rate.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/RefreshTableHeaderView/EGORefreshTableHeaderView.h
+c000000004EA1B828000000000000090B
+t1319221288
+s2315
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Classes/RefreshTableHeaderView/EGORefreshTableHeaderView.m
+c000000004EA1B828000000000000202F
+t1319221288
+s8239
+i"EGORefreshTableHeaderView.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/ExRate_Prefix.pch
+c000000004EABBD4C00000000000000B5
+t1319877964
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTAnnotation.h
+c000000004E7F84610000000000000389
+t1316979809
+s905
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTAnnotationHostLayer.h
+c000000004E7F84610000000000000157
+t1316979809
+s343
+i"CPTLayer.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTAxis.h
+c000000004E7F8461000000000000208F
+t1316979809
+s8335
+i<Foundation/Foundation.h>
+i"CPTLayer.h"
+i"CPTDefinitions.h"
+i"CPTTextStyle.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTAxisLabel.h
+c000000004E7F84610000000000000426
+t1316979809
+s1062
+i<Foundation/Foundation.h>
+i"CPTDefinitions.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTAxisSet.h
+c000000004E7F8461000000000000014A
+t1316979809
+s330
+i<Foundation/Foundation.h>
+i"CPTLayer.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTAxisTitle.h
+c000000004E7F84610000000000000070
+t1316979809
+s112
+i<Foundation/Foundation.h>
+i"CPTAxisLabel.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTBarPlot.h
+c000000004E7F84610000000000000D9E
+t1316979809
+s3486
+i<Foundation/Foundation.h>
+i"CPTPlot.h"
+i"CPTDefinitions.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTBorderedLayer.h
+c000000004E7F84610000000000000164
+t1316979809
+s356
+i<Foundation/Foundation.h>
+i"CPTAnnotationHostLayer.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTColor.h
+c000000004E7F8461000000000000044D
+t1316979809
+s1101
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTColorSpace.h
+c000000004E7F8461000000000000014D
+t1316979809
+s333
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTConstraints.h
+c000000004E7F846100000000000003B5
+t1316979809
+s949
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTDefinitions.h
+c000000004E7F84610000000000000AD2
+t1316979809
+s2770
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTExceptions.h
+c000000004E7F846100000000000000E4
+t1316979809
+s228
+i<Foundation/Foundation.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTFill.h
+c000000004E7F84610000000000000356
+t1316979809
+s854
+i<QuartzCore/QuartzCore.h>
+i<Foundation/Foundation.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTGradient.h
+c000000004E7F84610000000000000BFE
+t1316979809
+s3070
+i<Foundation/Foundation.h>
+i"CPTDefinitions.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTGraph.h
+c000000004E7F84610000000000000DCA
+t1316979809
+s3530
+i"CPTBorderedLayer.h"
+i"CPTDefinitions.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTGraphHostingView.h
+c000000004E7F8461000000000000019B
+t1316979809
+s411
+i<UIKit/UIKit.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTImage.h
+c000000004E7F846100000000000003CD
+t1316979809
+s973
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTLayer.h
+c000000004E7F8461000000000000086E
+t1316979809
+s2158
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i"CPTResponder.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTLayerAnnotation.h
+c000000004E7F846100000000000001EC
+t1316979809
+s492
+i<Foundation/Foundation.h>
+i"CPTAnnotation.h"
+i"CPTDefinitions.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTLegend.h
+c000000004E7F84610000000000000FFC
+t1316979809
+s4092
+i<Foundation/Foundation.h>
+i"CPTBorderedLayer.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTLegendEntry.h
+c000000004E7F84610000000000000353
+t1316979809
+s851
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTLimitBand.h
+c000000004E7F846100000000000001CF
+t1316979809
+s463
+i<Foundation/Foundation.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTLineCap.h
+c000000004E7F84610000000000000822
+t1316979809
+s2082
+i<Foundation/Foundation.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTLineStyle.h
+c000000004E7F8461000000000000041C
+t1316979809
+s1052
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTMutableLineStyle.h
+c000000004E7F84610000000000000238
+t1316979809
+s568
+i<Foundation/Foundation.h>
+i"CPTLineStyle.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTMutableNumericData+TypeConversion.h
+c000000004E7F846100000000000002C5
+t1316979809
+s709
+i<Foundation/Foundation.h>
+i"CPTMutableNumericData.h"
+i"CPTNumericDataType.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTMutableNumericData.h
+c000000004E7F8461000000000000033E
+t1316979809
+s830
+i<Foundation/Foundation.h>
+i"CPTNumericDataType.h"
+i"CPTNumericData.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTMutableShadow.h
+c000000004E7F84610000000000000161
+t1316979809
+s353
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+i"CPTShadow.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTMutableTextStyle.h
+c000000004E7F8461000000000000017D
+t1316979809
+s381
+i<Foundation/Foundation.h>
+i"CPTTextStyle.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTNumericData+TypeConversion.h
+c000000004E7F84610000000000000374
+t1316979809
+s884
+i<Foundation/Foundation.h>
+i"CPTNumericData.h"
+i"CPTNumericDataType.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTNumericData.h
+c000000004E7F8461000000000000089B
+t1316979809
+s2203
+i<Foundation/Foundation.h>
+i"CPTNumericDataType.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTNumericDataType.h
+c000000004E7F8461000000000000050C
+t1316979809
+s1292
+i<Foundation/Foundation.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTPathExtensions.h
+c000000004E7F84610000000000000126
+t1316979809
+s294
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTPieChart.h
+c000000004E7F84610000000000000D7D
+t1316979809
+s3453
+i<Foundation/Foundation.h>
+i"CPTPlot.h"
+i"CPTDefinitions.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTPlatformSpecificCategories.h
+c000000004E7F846100000000000003AE
+t1316979809
+s942
+i<UIKit/UIKit.h>
+i"CPTColor.h"
+i"CPTLayer.h"
+i"CPTPlatformSpecificDefines.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTPlatformSpecificDefines.h
+c000000004E7F8461000000000000005C
+t1316979809
+s92
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTPlatformSpecificFunctions.h
+c000000004E7F84610000000000000160
+t1316979809
+s352
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTPlot.h
+c000000004E7F84610000000000001D72
+t1316979809
+s7538
+i"CPTDefinitions.h"
+i"CPTPlotRange.h"
+i"CPTNumericDataType.h"
+i"CPTAnnotationHostLayer.h"
+i"CPTMutableTextStyle.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTPlotArea.h
+c000000004E7F84610000000000000661
+t1316979809
+s1633
+i<Foundation/Foundation.h>
+i"CPTLayer.h"
+i"CPTGraph.h"
+i"CPTAnnotationHostLayer.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTPlotAreaFrame.h
+c000000004E7F84610000000000000179
+t1316979809
+s377
+i"CPTBorderedLayer.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTPlotRange.h
+c000000004E7F8461000000000000091B
+t1316979809
+s2331
+i<Foundation/Foundation.h>
+i"CPTDefinitions.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTPlotSpace.h
+c000000004E7F84610000000000001645
+t1316979809
+s5701
+i"CPTDefinitions.h"
+i"CPTResponder.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTPlotSpaceAnnotation.h
+c000000004E7F8461000000000000019E
+t1316979809
+s414
+i<Foundation/Foundation.h>
+i"CPTAnnotation.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTPlotSymbol.h
+c000000004E7F8461000000000000094B
+t1316979809
+s2379
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTRangePlot.h
+c000000004E7F8461000000000000052A
+t1316979809
+s1322
+i<Foundation/Foundation.h>
+i"CPTPlot.h"
+i"CPTDefinitions.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTResponder.h
+c000000004E7F846100000000000005FD
+t1316979809
+s1533
+i<Foundation/Foundation.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTScatterPlot.h
+c000000004E7F84610000000000000D12
+t1316979809
+s3346
+i<Foundation/Foundation.h>
+i"CPTPlot.h"
+i"CPTDefinitions.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTShadow.h
+c000000004E7F84610000000000000246
+t1316979809
+s582
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTTextLayer.h
+c000000004E7F84610000000000000245
+t1316979809
+s581
+i"CPTLayer.h"
+i"CPTTextStyle.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTTextStyle.h
+c000000004E7F846100000000000004C9
+t1316979809
+s1225
+i<Foundation/Foundation.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTTheme.h
+c000000004E7F8461000000000000047E
+t1316979809
+s1150
+i<Foundation/Foundation.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTTimeFormatter.h
+c000000004E7F84610000000000000175
+t1316979809
+s373
+i<Foundation/Foundation.h>
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTTradingRangePlot.h
+c000000004E7F84610000000000000884
+t1316979809
+s2180
+i<Foundation/Foundation.h>
+i"CPTPlot.h"
+i"CPTDefinitions.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTUtilities.h
+c000000004E7F84610000000000000DCF
+t1316979809
+s3535
+i<Foundation/Foundation.h>
+i"CPTDefinitions.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTXYAxis.h
+c000000004E7F84610000000000000185
+t1316979809
+s389
+i<Foundation/Foundation.h>
+i"CPTAxis.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTXYAxisSet.h
+c000000004E7F846100000000000000F1
+t1316979809
+s241
+i<Foundation/Foundation.h>
+i"CPTAxisSet.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTXYGraph.h
+c000000004E7F8461000000000000015C
+t1316979809
+s348
+i<Foundation/Foundation.h>
+i"CPTGraph.h"
+i"CPTDefinitions.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CPTXYPlotSpace.h
+c000000004E7F846100000000000002E2
+t1316979809
+s738
+i"CPTPlotSpace.h"
+i"CPTDefinitions.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/CorePlotHeaders/CorePlot-CocoaTouch.h
+c000000004E7F8461000000000000064E
+t1316979809
+s1614
+i"CPTAnnotation.h"
+i"CPTAnnotationHostLayer.h"
+i"CPTAxis.h"
+i"CPTAxisLabel.h"
+i"CPTAxisSet.h"
+i"CPTAxisTitle.h"
+i"CPTBarPlot.h"
+i"CPTBorderedLayer.h"
+i"CPTColor.h"
+i"CPTColorSpace.h"
+i"CPTConstraints.h"
+i"CPTDefinitions.h"
+i"CPTExceptions.h"
+i"CPTFill.h"
+i"CPTGradient.h"
+i"CPTGraph.h"
+i"CPTGraphHostingView.h"
+i"CPTImage.h"
+i"CPTLayer.h"
+i"CPTLayerAnnotation.h"
+i"CPTLegend.h"
+i"CPTLegendEntry.h"
+i"CPTLimitBand.h"
+i"CPTLineCap.h"
+i"CPTLineStyle.h"
+i"CPTMutableLineStyle.h"
+i"CPTMutableNumericData.h"
+i"CPTMutableNumericData+TypeConversion.h"
+i"CPTMutableShadow.h"
+i"CPTMutableTextStyle.h"
+i"CPTNumericData.h"
+i"CPTNumericData+TypeConversion.h"
+i"CPTNumericDataType.h"
+i"CPTPieChart.h"
+i"CPTPlatformSpecificDefines.h"
+i"CPTPlatformSpecificFunctions.h"
+i"CPTPlatformSpecificCategories.h"
+i"CPTPathExtensions.h"
+i"CPTPlot.h"
+i"CPTPlotArea.h"
+i"CPTPlotAreaFrame.h"
+i"CPTPlotRange.h"
+i"CPTPlotSpace.h"
+i"CPTPlotSpaceAnnotation.h"
+i"CPTPlotSymbol.h"
+i"CPTRangePlot.h"
+i"CPTResponder.h"
+i"CPTScatterPlot.h"
+i"CPTShadow.h"
+i"CPTTextLayer.h"
+i"CPTTextStyle.h"
+i"CPTTheme.h"
+i"CPTTimeFormatter.h"
+i"CPTTradingRangePlot.h"
+i"CPTUtilities.h"
+i"CPTXYAxis.h"
+i"CPTXYAxisSet.h"
+i"CPTXYGraph.h"
+i"CPTXYPlotSpace.h"
+
+N/Users/macbookpro/Documents/MyApps/ExRate/Libs/libCorePlot-CocoaTouch.a
+c000000004E7F847E00000000006CB104
+t1316979838
+s7123204
+
+N/Users/macbookpro/Documents/MyApps/ExRate/MainWindow.xib
+c000000004EABBD4C0000000000002103
+t1319877964
+s8451
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app
+t1319878174
+s612
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app.dSYM
+t1319878174
+s102
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/Blue.png
+t1319878159
+s3274
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/Blue@2x.png
+t1319878159
+s4861
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/ButtonSelected.png
+t1319878159
+s3460
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/ExRate
+t1319878174
+s1047564
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/Info.plist
+t1319878158
+s587
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/MKInfoPanel.nib
+t1319878162
+s1919
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/MainWindow.nib
+t1319878162
+s983
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/MenuBar.png
+t1319878159
+s2812
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/MenuBar@2x.png
+t1319878159
+s2859
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/PkgInfo
+t1319878158
+s8
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/Red.png
+t1319878159
+s3085
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/Red@2x.png
+t1319878159
+s3987
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/Tick.png
+t1319878159
+s1868
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/Tick@2x.png
+t1319878159
+s2356
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/Warning.png
+t1319878159
+s3020
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/Warning@2x.png
+t1319878159
+s5200
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Cache.o
+t1319878173
+s26408
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Currency.o
+t1319878173
+s16668
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/CurrencyChooserController.o
+t1319878173
+s82372
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/CurrencyController.o
+t1319878173
+s119232
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/EGORefreshTableHeaderView.o
+t1319878173
+s63400
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/ExRate.LinkFileList
+c000000004EABBE0E000000000000084B
+t1319878158
+s2123
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/ExRateAppDelegate.o
+t1319878172
+s98944
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/HistoryController.o
+t1319878173
+s118152
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/HistoryParseOperation.o
+t1319878172
+s32260
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/InfoController.o
+t1319878169
+s37560
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MBProgressHUD.o
+t1319878172
+s122216
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MKHorizMenu.o
+t1319878173
+s51716
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MKInfoPanel.o
+t1319878172
+s67972
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/NTHXMLParser.o
+t1319878173
+s14204
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/ParseOperation.o
+t1319878173
+s33388
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Rate.o
+t1319878173
+s8692
+
+N/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/main.o
+t1319878169
+s6308
+
+N/Users/macbookpro/Documents/MyApps/ExRate/main.m
+c000000004EABBD4C0000000000000161
+t1319877964
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch.gch
+t1319878168
+s15453392
+
+NExRate-Info.plist
+c000000004EABBD4C000000000000038D
+t1319877964
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies341570958#341570958#0(0"0(0#1#0"4735927616#0"0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Cache.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/Cache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570973.062932
+e341570973.279709
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Cache.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/Cache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/Cache.m341570973#341570973#0(0"0(0#0#57"/Users/macbookpro/Documents/MyApps/ExRate/Classes/Cache.m4735925904#1933"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/Cache.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Cache.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Currency.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/Currency.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570973.307708
+e341570973.424156
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Currency.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/Currency.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/Currency.m341570973#341570973#0(0"0(0#0#60"/Users/macbookpro/Documents/MyApps/ExRate/Classes/Currency.m4735925904#1939"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/Currency.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Currency.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/CurrencyChooserController.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570972.504380
+e341570973.062798
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/CurrencyChooserController.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m: In function '-[CurrencyChooserController tableView:cellForRowAtIndexPath:]':
+o/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m:127: warning: local declaration of 'tableView' hides instance variable
+lSLF07#2@85"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m341570972#341570973#0(305"/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m: In function '-[CurrencyChooserController tableView:cellForRowAtIndexPath:]':/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m:127: warning: local declaration of 'tableView' hides instance variable1(22@56"Local declaration of 'tableView' hides instance variable341570972#156#149#0(6@77"/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m341519924#127#0#127#0#0"0(0#0#77"/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m4735925904#1973"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/CurrencyChooserController.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/CurrencyController.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570969.693876
+e341570973.279483
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/CurrencyController.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m: In function '-[CurrencyController init]':
+o/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m:55: warning: 'setFont:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIButton.h:106)
+o/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m:48: warning: unused variable 'newImage'
+o/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m: In function '-[CurrencyController tableView:cellForRowAtIndexPath:]':
+o/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m:306: warning: local declaration of 'tableView' hides instance variable
+o/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m: At top level:
+o/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m:677: warning: property 'headerView' requires method '-headerView' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@78"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m341570969#341570973#0(1081"/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m: In function '-[CurrencyController init]':/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m:55: warning: 'setFont:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIButton.h:106)/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m:48: warning: unused variable 'newImage'/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m: In function '-[CurrencyController tableView:cellForRowAtIndexPath:]':/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m:306: warning: local declaration of 'tableView' hides instance variable/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m: At top level:/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m:677: warning: property 'headerView' requires method '-headerView' to be defined - use @synthesize, @dynamic or provide a method implementation5(22@187"'setFont:' is deprecated (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIButton.h:106)341570972#114#272#0(6@70"/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m341535455#55#0#55#0#33"'*' is deprecated (declared at *)0(22@26"Unused variable 'newImage'341570972#386#111#0(6@70"/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m341535455#48#0#48#0#19"unused variable '*'0(22@56"Local declaration of 'tableView' hides instance variable341570973#639#142#0(6@70"/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m341535455#306#0#306#0#0"0(23@13"At top level:341570973#781#86#0(6@70"/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m341535455#0#0#0#0#0"0(22@128"Property 'headerView' requires method '-headerView' to be defined - use @synthesize, @dynamic or provide a method implementation341570973#867#214#0(6@70"/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m341535455#677#0#677#0#0"0(0#0#70"/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m4735925904#1959"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyController.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/CurrencyController.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/EGORefreshTableHeaderView.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/RefreshTableHeaderView/EGORefreshTableHeaderView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570973.288540
+e341570973.504432
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/EGORefreshTableHeaderView.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/RefreshTableHeaderView/EGORefreshTableHeaderView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/RefreshTableHeaderView/EGORefreshTableHeaderView.m341570973#341570973#0(0"0(0#0#100"/Users/macbookpro/Documents/MyApps/ExRate/Classes/RefreshTableHeaderView/EGORefreshTableHeaderView.m4735925904#1996"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/RefreshTableHeaderView/EGORefreshTableHeaderView.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/EGORefreshTableHeaderView.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/ExRateAppDelegate.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/ExRateAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570968.708236
+e341570972.663625
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/ExRateAppDelegate.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/ExRateAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/ExRateAppDelegate.m341570968#341570972#0(0"0(0#0#69"/Users/macbookpro/Documents/MyApps/ExRate/Classes/ExRateAppDelegate.m4735925904#1957"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/ExRateAppDelegate.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/ExRateAppDelegate.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/HistoryController.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570972.502563
+e341570973.174606
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/HistoryController.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryController.m341570972#341570973#0(0"0(0#0#69"/Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryController.m4735925904#1957"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryController.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/HistoryController.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/HistoryParseOperation.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryParseOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570972.672511
+e341570973.060580
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/HistoryParseOperation.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryParseOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryParseOperation.m341570972#341570973#0(0"0(0#0#73"/Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryParseOperation.m4735925904#1965"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/HistoryParseOperation.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/HistoryParseOperation.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/InfoController.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/InfoController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570968.705960
+e341570969.693777
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/InfoController.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/InfoController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/InfoController.m341570968#341570969#0(0"0(0#0#66"/Users/macbookpro/Documents/MyApps/ExRate/Classes/InfoController.m4735925904#1951"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/InfoController.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/InfoController.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MBProgressHUD.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/MBProgressHUD.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570969.315142
+e341570972.502392
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MBProgressHUD.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/MBProgressHUD.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/MBProgressHUD.m341570969#341570972#0(0"0(0#0#65"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MBProgressHUD.m4735925904#1949"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/MBProgressHUD.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MBProgressHUD.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MKHorizMenu.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MKHorizMenu.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570973.295277
+e341570973.448053
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MKHorizMenu.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MKHorizMenu.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@83"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MKHorizMenu.m341570973#341570973#0(0"0(0#0#75"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MKHorizMenu.m4735925904#1957"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MKHorizMenu.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MKHorizMenu.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MKInfoPanel.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570968.707039
+e341570972.504249
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MKInfoPanel.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.m341570968#341570972#0(0"0(0#0#76"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.m4735925904#1958"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/MKInfoPanel.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/NTHXMLParser.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/NTHXMLParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570973.200287
+e341570973.375473
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/NTHXMLParser.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/NTHXMLParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/macbookpro/Documents/MyApps/ExRate/Classes/NTHXMLParser.m: In function '-[NTHXMLParser parse]':
+o/Users/macbookpro/Documents/MyApps/ExRate/Classes/NTHXMLParser.m:62: warning: class 'NTHXMLParser' does not implement the 'NSXMLParserDelegate' protocol
+lSLF07#2@72"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/NTHXMLParser.m341570973#341570973#0(256"/Users/macbookpro/Documents/MyApps/ExRate/Classes/NTHXMLParser.m: In function '-[NTHXMLParser parse]':/Users/macbookpro/Documents/MyApps/ExRate/Classes/NTHXMLParser.m:62: warning: class 'NTHXMLParser' does not implement the 'NSXMLParserDelegate' protocol1(22@74"Class 'NTHXMLParser' does not implement the 'NSXMLParserDelegate' protocol341570973#103#153#0(6@64"/Users/macbookpro/Documents/MyApps/ExRate/Classes/NTHXMLParser.m315396652#62#0#62#0#45"class '*' does not implement the '*' protocol0(0#0#64"/Users/macbookpro/Documents/MyApps/ExRate/Classes/NTHXMLParser.m4735925904#1947"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/NTHXMLParser.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/NTHXMLParser.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/ParseOperation.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/ParseOperation.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570973.060800
+e341570973.279897
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/ParseOperation.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/ParseOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/macbookpro/Documents/MyApps/ExRate/Classes/ParseOperation.m: In function '-[ParseOperation parser:didStartElement:namespaceURI:qualifiedName:attributes:]':
+o/Users/macbookpro/Documents/MyApps/ExRate/Classes/ParseOperation.m:158: warning: initialization makes integer from pointer without a cast
+lSLF07#2@74"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/ParseOperation.m341570973#341570973#0(301"/Users/macbookpro/Documents/MyApps/ExRate/Classes/ParseOperation.m: In function '-[ParseOperation parser:didStartElement:namespaceURI:qualifiedName:attributes:]':/Users/macbookpro/Documents/MyApps/ExRate/Classes/ParseOperation.m:158: warning: initialization makes integer from pointer without a cast1(22@56"Initialization makes integer from pointer without a cast341570973#163#138#0(6@66"/Users/macbookpro/Documents/MyApps/ExRate/Classes/ParseOperation.m341516546#158#0#158#0#0"0(0#0#66"/Users/macbookpro/Documents/MyApps/ExRate/Classes/ParseOperation.m4735925904#1951"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/ParseOperation.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/ParseOperation.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Rate.o /Users/macbookpro/Documents/MyApps/ExRate/Classes/Rate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570973.376939
+e341570973.494308
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Rate.o
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/Rate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/macbookpro/Documents/MyApps/ExRate/Classes/Rate.m341570973#341570973#0(0"0(0#0#56"/Users/macbookpro/Documents/MyApps/ExRate/Classes/Rate.m4735925904#1931"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/Classes/Rate.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/Rate.o0#
+
+CCompileC build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/main.o /Users/macbookpro/Documents/MyApps/ExRate/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570968.682088
+e341570969.315038
+r1
+xCompileC
+xbuild/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/main.o
+x/Users/macbookpro/Documents/MyApps/ExRate/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/macbookpro/Documents/MyApps/ExRate/main.m341570968#341570969#0(0"0(0#0#48"/Users/macbookpro/Documents/MyApps/ExRate/main.m4735925904#1923"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -include /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch -c /Users/macbookpro/Documents/MyApps/ExRate/main.m -o /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.xib
+s341570959.024789
+e341570962.921081
+r1
+xCompileXIB
+x/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.xib
+lSLF07#2@47"CompileXIB Classes/MKInfoBundle/MKInfoPanel.xib341570959#341570962#0(0"0(0#0#78"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.xib4735925904#601"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/MKInfoPanel.nib /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/MKInfoPanel.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/macbookpro/Documents/MyApps/ExRate/MainWindow.xib
+s341570958.980654
+e341570962.633411
+r1
+xCompileXIB
+x/Users/macbookpro/Documents/MyApps/ExRate/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib341570958#341570962#0(0"0(0#0#56"/Users/macbookpro/Documents/MyApps/ExRate/MainWindow.xib4735925904#578"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/MainWindow.nib /Users/macbookpro/Documents/MyApps/ExRate/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/ExRate.app/Blue.png Classes/MKInfoBundle/Blue.png
+s341570959.098455
+e341570959.274638
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExRate.app/Blue.png
+xClasses/MKInfoBundle/Blue.png
+lSLF07#2@34"Copy Classes/MKInfoBundle/Blue.png341570959#341570959#0(0"0(0#0#71"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Blue.png4735925904#495"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Blue.png /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app0#
+
+CCpResource build/Debug-iphonesimulator/ExRate.app/Blue@2x.png Classes/MKInfoBundle/Blue@2x.png
+s341570959.171700
+e341570959.274872
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExRate.app/Blue@2x.png
+xClasses/MKInfoBundle/Blue@2x.png
+lSLF07#2@37"Copy Classes/MKInfoBundle/Blue@2x.png341570959#341570959#0(0"0(0#0#74"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Blue@2x.png4735925904#498"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Blue@2x.png /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app0#
+
+CCpResource build/Debug-iphonesimulator/ExRate.app/ButtonSelected.png Classes/MKHorizMenu/ButtonSelected.png
+s341570959.282645
+e341570959.362792
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExRate.app/ButtonSelected.png
+xClasses/MKHorizMenu/ButtonSelected.png
+lSLF07#2@43"Copy Classes/MKHorizMenu/ButtonSelected.png341570959#341570959#0(0"0(0#0#80"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/ButtonSelected.png4735925904#504"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/ButtonSelected.png /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app0#
+
+CCpResource build/Debug-iphonesimulator/ExRate.app/MenuBar.png Classes/MKHorizMenu/MenuBar.png
+s341570959.353718
+e341570959.364259
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExRate.app/MenuBar.png
+xClasses/MKHorizMenu/MenuBar.png
+lSLF07#2@36"Copy Classes/MKHorizMenu/MenuBar.png341570959#341570959#0(0"0(0#0#73"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MenuBar.png4735925904#497"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MenuBar.png /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app0#
+
+CCpResource build/Debug-iphonesimulator/ExRate.app/MenuBar@2x.png Classes/MKHorizMenu/MenuBar@2x.png
+s341570959.357106
+e341570959.365844
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExRate.app/MenuBar@2x.png
+xClasses/MKHorizMenu/MenuBar@2x.png
+lSLF07#2@39"Copy Classes/MKHorizMenu/MenuBar@2x.png341570959#341570959#0(0"0(0#0#76"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MenuBar@2x.png4735925904#500"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKHorizMenu/MenuBar@2x.png /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app0#
+
+CCpResource build/Debug-iphonesimulator/ExRate.app/Red.png Classes/MKInfoBundle/Red.png
+s341570959.172938
+e341570959.275067
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExRate.app/Red.png
+xClasses/MKInfoBundle/Red.png
+lSLF07#2@33"Copy Classes/MKInfoBundle/Red.png341570959#341570959#0(0"0(0#0#70"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Red.png4735925904#494"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Red.png /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app0#
+
+CCpResource build/Debug-iphonesimulator/ExRate.app/Red@2x.png Classes/MKInfoBundle/Red@2x.png
+s341570959.173920
+e341570959.275249
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExRate.app/Red@2x.png
+xClasses/MKInfoBundle/Red@2x.png
+lSLF07#2@36"Copy Classes/MKInfoBundle/Red@2x.png341570959#341570959#0(0"0(0#0#73"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Red@2x.png4735925904#497"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Red@2x.png /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app0#
+
+CCpResource build/Debug-iphonesimulator/ExRate.app/Tick.png Classes/MKInfoBundle/Tick.png
+s341570959.174897
+e341570959.275405
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExRate.app/Tick.png
+xClasses/MKInfoBundle/Tick.png
+lSLF07#2@34"Copy Classes/MKInfoBundle/Tick.png341570959#341570959#0(0"0(0#0#71"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Tick.png4735925904#495"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Tick.png /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app0#
+
+CCpResource build/Debug-iphonesimulator/ExRate.app/Tick@2x.png Classes/MKInfoBundle/Tick@2x.png
+s341570959.175818
+e341570959.275566
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExRate.app/Tick@2x.png
+xClasses/MKInfoBundle/Tick@2x.png
+lSLF07#2@37"Copy Classes/MKInfoBundle/Tick@2x.png341570959#341570959#0(0"0(0#0#74"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Tick@2x.png4735925904#498"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Tick@2x.png /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app0#
+
+CCpResource build/Debug-iphonesimulator/ExRate.app/Warning.png Classes/MKInfoBundle/Warning.png
+s341570959.188490
+e341570959.275718
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExRate.app/Warning.png
+xClasses/MKInfoBundle/Warning.png
+lSLF07#2@37"Copy Classes/MKInfoBundle/Warning.png341570959#341570959#0(0"0(0#0#74"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Warning.png4735925904#498"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Warning.png /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app0#
+
+CCpResource build/Debug-iphonesimulator/ExRate.app/Warning@2x.png Classes/MKInfoBundle/Warning@2x.png
+s341570959.255968
+e341570959.358402
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ExRate.app/Warning@2x.png
+xClasses/MKInfoBundle/Warning@2x.png
+lSLF07#2@40"Copy Classes/MKInfoBundle/Warning@2x.png341570959#341570959#0(0"0(0#0#77"/Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Warning@2x.png4735925904#501"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/macbookpro/Documents/MyApps/ExRate/Classes/MKInfoBundle/Warning@2x.png /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app0#
+
+CGenerateDSYMFile /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app.dSYM /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/ExRate
+s341570974.548207
+e341570974.902624
+r1
+xGenerateDSYMFile
+x/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app.dSYM
+x/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/ExRate
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/ExRate.app.dSYM build/Debug-iphonesimulator/ExRate.app/ExRate341570974#341570974#0(0"0(0#0#87"/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/ExRate4735925904#389"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/ExRate -o /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app.dSYM0#
+
+CLd /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/ExRate normal i386
+s341570973.504635
+e341570974.548054
+r1
+xLd
+x/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/ExRate
+xnormal
+xi386
+lSLF07#2@92"Link /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/ExRate341570973#341570974#0(0"0(0#0#0"4735925904#1019"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -L/Users/macbookpro/Documents/MyApps/ExRate/Libs -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -filelist /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/Objects-normal/i386/ExRate.LinkFileList -mmacosx-version-min=10.6 -ObjC -all_load -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lCorePlot-CocoaTouch -framework QuartzCore -o /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/ExRate0#
+
+CProcessInfoPlistFile /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/Info.plist ExRate-Info.plist
+s341570958.977076
+e341570958.980548
+r1
+xProcessInfoPlistFile
+x/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/Info.plist
+xExRate-Info.plist
+lSLF07#2@25"Process ExRate-Info.plist341570958#341570958#0(0"0(0#0#59"/Users/macbookpro/Documents/MyApps/ExRate/ExRate-Info.plist4735926016#485"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ExRate-Info.plist -genpkginfo /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app/Info.plist0#
+
+CProcessPCH /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch.gch ExRate_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s341570962.921249
+e341570968.681714
+r1
+xProcessPCH
+x/var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch.gch
+xExRate_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile ExRate_Prefix.pch341570962#341570968#0(0"0(0#0#59"/Users/macbookpro/Documents/MyApps/ExRate/ExRate_Prefix.pch4735925904#1813"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-generated-files.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-own-target-headers.hmap -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-all-target-headers.hmap -iquote /Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/ExRate-project-headers.hmap -F/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator -I/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/include -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources/i386 -I/Users/macbookpro/Documents/MyApps/ExRate/build/ExRate.build/Debug-iphonesimulator/ExRate.build/DerivedSources -c /Users/macbookpro/Documents/MyApps/ExRate/ExRate_Prefix.pch -o /var/folders/gl/0qc83ttn4dg6f8dj4424ltzr0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ExRate_Prefix-bwqglpfukewpjwankqhsbaymbhni/ExRate_Prefix.pch.gch0#
+
+CTouch /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app
+s341570974.902737
+e341570974.944366
+r1
+xTouch
+x/Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app
+lSLF07#2@86"Touch /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app341570974#341570974#0(0"0(0#0#0"4735925904#283"    cd /Users/macbookpro/Documents/MyApps/ExRate    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/macbookpro/Documents/MyApps/ExRate/build/Debug-iphonesimulator/ExRate.app0#
+

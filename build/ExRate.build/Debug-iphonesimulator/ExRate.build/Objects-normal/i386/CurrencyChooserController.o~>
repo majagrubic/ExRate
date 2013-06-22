@@ -1,0 +1,2 @@
+/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m: In function '-[CurrencyChooserController tableView:cellForRowAtIndexPath:]':
+/Users/macbookpro/Documents/MyApps/ExRate/Classes/CurrencyChooserController.m:118: warning: local declaration of 'tableView' hides instance variable
